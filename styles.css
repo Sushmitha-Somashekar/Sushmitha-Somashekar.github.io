@@ -40,6 +40,16 @@ a:hover { text-decoration: underline; }
  color: white;
 }
 
+.fa-linkedin {
+ background: #1573B4 ;
+ color: white;
+}
+
+.fa-twitter {
+ background: #5FAEE2 ;
+ color: white;
+}
+
 /** @group core layout **/
 #w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #fff; min-width: 260px; max-width: 900px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; -webkit-border-bottom-left-radius: 8px; -webkit-border-bottom-right-radius: 8px; -moz-border-radius-bottomleft: 8px; -moz-border-radius-bottomright: 8px; }
 
